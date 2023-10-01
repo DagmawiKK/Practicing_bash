@@ -1,0 +1,4 @@
+#!/bin/bash
+
+math= expr 30 \* 20 POW(2)  / 2 - 11
+echo $math

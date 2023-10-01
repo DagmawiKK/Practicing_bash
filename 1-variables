@@ -1,0 +1,9 @@
+#!/bin/bash
+
+myname="Dagmawi K Kebede"
+echo "My name is $myname"
+
+Time=$(date)
+echo "Today is $Time" #Storing a command output in a variable
+
+echo "Your home directory is: $HOME" #Using enviroment variables
